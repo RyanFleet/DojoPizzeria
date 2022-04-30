@@ -40,4 +40,4 @@ function randomPizza() {
     pizza.toppings = randomPick(toppings);
     return pizza;
 }
-console.log(randomPizza())
+console.log(randomPizza()) 
